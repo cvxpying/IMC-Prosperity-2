@@ -1,4 +1,4 @@
-# IMC-Prosperity-2024, Y-FoRM
+# IMC-Prosperity-2 (2024), Team Y-FoRM
 [Link to Korean Version]()
 
 ## What is IMC Prosperity?
