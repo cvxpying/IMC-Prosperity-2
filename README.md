@@ -174,7 +174,7 @@ Round 5 is news trading. Based on the most credible news source from north archi
 
 - Among many algorithmic trading competitions, IMC Prosperity stands out due to its engaging storyline and well-designed graphics. Despite its challenges, it was an enjoyable experience throughout.
 - The unexpected server downtime extended the competition by 24 hours, causing inconvenience and disrupting schedules for many participants. Nevertheless, I would like to express my gratitude to IMC for hosting such a fascinating event.
-- I am deeply thankful to Jiseob for introducing me to this competition and encouraging participation. His initiative allowed us to explore market microstructures, CLOB, object-oriented programming, and algorithmic trading strategies extensively.
-- My heartfelt thanks also go to Sanghyun, who did not give up despite the difficulties and took charge of manual trading and documenting our meetings, contributing significantly until the end.
+- I am deeply thankful to Ji-seob for introducing me to this competition and encouraging participation. His initiative allowed us to explore market microstructures, CLOB, object-oriented programming, and algorithmic trading strategies extensively.
+- My heartfelt thanks also go to Seong-yun, who did not give up despite the difficulties and took charge of manual trading and documenting our meetings, contributing significantly until the end.
 - Despite overlapping with exam periods, the fact that we could conduct our Zoom meetings daily past midnight for over two hours without any complaints speaks volumes about the good team spirit and the enjoyable nature of the competition.
 - If Prosperity3 is held, I definitely plan to participate again and hope that more people in Korea will also take interest and join the competition.
