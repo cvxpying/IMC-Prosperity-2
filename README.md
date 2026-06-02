@@ -63,7 +63,7 @@ Also as the name of our team suggests, we are members of financial eng. and risk
 - Scripts will run on AWS, and last year many teamS with complex algorithm had Lambda issue.
 - In AWS class variables may be lost, but we can pass serialized data across timestamps through `traderData`. 
 - If Prosperity server goes down (happend twice), they might give additional 24 hours for the round.
-- The products in previous rounds will stay in the market, but marke regime may change.
+- The products in previous rounds will stay in the market, but market regime may change.
 
 ### Tutorial Round: Market Making
 We spent most of our time in tutorial understanding the mechanics and structure of [trading code](https://imc-prosperity.notion.site/Writing-an-Algorithm-in-Python-658e233a26e24510bfccf0b1df647858). In the end, we decided to market make and take around the fair value with stop loss considering the position limit.
