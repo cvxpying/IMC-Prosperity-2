@@ -38,7 +38,7 @@
 
 ## Team Y-FoRM
 We are undergraduate students from Yonsei University, 2 industrial eng. major and 1 econ major.  
-Also as the name of our team suggests, we are members of financial eng. and risk mgt. club [Y-FoRM](https://yform.co.kr/).
+Also as the name of our team suggests, we are members of financial eng. and risk mgt. club [Y-FoRM](https://y-form.co.kr/).
 
 - Ji Seob Lim [LinkedIn](https://www.linkedin.com/in/jimmylim0823/)
 - Seong Yun Cho [LinkedIn](https://www.linkedin.com/in/seongyun0727/)
